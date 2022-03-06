@@ -14,5 +14,10 @@ The program contains the following classes: (See Javadocs for detailed descripti
 8.	Finally, the Game class has a static main method that instantiates a Game object and runs the game.
 Monster Name	Room Index	Description	Hit Points	Attack Damage	Enrage Threshold
 
+![image](https://user-images.githubusercontent.com/96219079/156928074-be480635-8304-4b22-bd18-5bffafa6c67c.png)
+
+![image](https://user-images.githubusercontent.com/96219079/156928126-f5b3acca-a85e-4553-acd5-b5fc3b1075a5.png)
+
+
 
 
