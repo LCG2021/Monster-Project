@@ -12,7 +12,7 @@ The program contains the following classes: (See Javadocs for detailed descripti
 6.	A Battle class that has attributes player and monster. There is a run() method that let player and monster battle against each other until one of them dies. In each player turn, the method displays player hitPoints and monster hitPoints, then attack or heal following player’s command, and checks if monster is killed. In each monster turn, the method checks if the monster is going to enrage, then let the monster attack the player and checks if player is killed.
 7.	A Game class with attributes player and dungeon. Dungeon is an array of 3 Room objects. There is a constructor that constructs the player object using information from a file, and constructs three monsters and three rooms with attributed given in the tables below. There is a play() method that let the player enter the dungeon rooms one by one until the player dies or clears all rooms. The method also updates the GameLog file as player progresses. 
 8.	Finally, the Game class has a static main method that instantiates a Game object and runs the game.
-Monster Name	Room Index	Description	Hit Points	Attack Damage	Enrage Threshold
+
 
 ![image](https://user-images.githubusercontent.com/96219079/156928074-be480635-8304-4b22-bd18-5bffafa6c67c.png)
 
